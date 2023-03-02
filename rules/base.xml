@@ -3163,6 +3163,12 @@
             </languageList>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>codeman</name>
+            <description>English (Codeman)</description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
